@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.8"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.USER_LIBRARY/selenium_core"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/cglib-nodep-3.2.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/client-combined-3.0.1-nodeps.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/cobertura-2.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/commons-codec-1.10.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/commons-exec-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/commons-io-2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/commons-lang3-3.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/commons-logging-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/cssparser-0.9.20.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/cucumber-core-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/cucumber-java-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/cucumber-junit-1.2.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/cucumber-jvm-deps-1.0.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/cucumber-reporting-3.5.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/gherkin-2.12.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/gson-2.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/guava-19.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/hamcrest-core-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/hamcrest-library-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/htmlunit-core-js-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/httpclient-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/httpcore-4.4.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/httpmime-4.5.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/javax.servlet-api-3.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/jetty-io-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/jetty-util-9.2.13.v20150730.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/jna-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/jna-platform-4.1.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/junit-1.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/junit-4.12.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/mockito-all-2.0.2-beta.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/neko-htmlunit-2.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/netty-3.5.7.Final.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/org-apache-commons-logging.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/phantomjsdriver-1.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/sac-1.3.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/serializer-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/websocket-api-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/websocket-client-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/websocket-common-9.2.15.v20160210.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/xalan-2.7.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/xercesImpl-2.11.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Aditya/Desktop/All Jar/xml-apis-1.4.01.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
